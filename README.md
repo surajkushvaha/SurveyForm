@@ -1,5 +1,10 @@
-this is Survey Form of My symptoms checker site which is created by me for freecodecamp project2 (Survey Form Challenge).
+# SurveyForm
+this is Survey Form of Arogyam my Symptoms Checker site. which is created by me for freecodecamp project2(SurveyForm challenge).
 
-some desgins are inspired from diffrent sites.
+all information is taken from news article, google and wikipedia.
+and all rights their own.
 
-link for this site: https://surajkushvaha.github.io/SurveyForm/SurveyForm.html or https://codepen.io/surajkushvaha/pen/PoWRqQe
+link for this site:
+https://surajkushvaha.github.io/TributePage/TributePage.html
+or
+https://codepen.io/surajkushvaha/pen/WNRZMee
