@@ -5,6 +5,6 @@ all information is taken from news article, google and wikipedia.
 and all rights their own.
 
 link for this site:
-https://surajkushvaha.github.io/SurveyForm/SurveyForm.html
+https://surajkushvaha.github.io/SurveyForm/
 or
 https://codepen.io/surajkushvaha/pen/PoWRqQe
